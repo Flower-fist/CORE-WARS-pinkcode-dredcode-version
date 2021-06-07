@@ -8,3 +8,7 @@ also it dosen't have P-space, instruction modifiers, labels,
 for/rof and the other psuedo-opcodes,
 and I'm sooo stupidly lazy that I've removed indirect addresing.
 scared yet? that why it's dredcode.
+# have fun with:
+The fact that I implemented a class for redcode commands despite my hatred of OOP style code,
+My bad commentation, and the BUGS in the main code
+(the main code is in "barracks.py")
